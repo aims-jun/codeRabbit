@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/new-window" element={<NewWindow />} />
+        <Route path="/new-window2" element={<NewWindow />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

@@ -22,6 +22,7 @@ function App() {
     const windowFeatures = "width=600,height=400,left=200,top=200";
     window.open("/new-window", "childForm", windowFeatures);
   };
+  console.log(message);
 
   return (
     <>
